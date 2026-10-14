@@ -1,0 +1,28 @@
+# ===== Compilados de Java =====
+*.class
+
+# ===== Carpetas de salida de build =====
+build/
+dist/
+out/
+bin/
+classes/
+
+# ===== NetBeans (configuración privada) =====
+nbproject/private/
+nbbuild/
+nbdist/
+
+# ===== Logs =====
+*.log
+logs/
+
+# ===== Sistema operativo =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== Archivos sensibles =====
+.env
+*.env
+application-local.properties
